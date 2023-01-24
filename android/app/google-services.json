@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974012134672",
+    "project_id": "metature-3d682",
+    "storage_bucket": "metature-3d682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974012134672:android:779c8324bf45b2627ae195",
+        "android_client_info": {
+          "package_name": "com.metature.metature2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974012134672-4ej8vhivcm5go87drodqh0124ibdu5lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClZskIvYmwgJ_LgrcUOTpGwHwxgCMrFd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974012134672-4ej8vhivcm5go87drodqh0124ibdu5lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
